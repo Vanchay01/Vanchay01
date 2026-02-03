@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**Vanchay01/Vanchay01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi there, I'm Vanchay 
+Welcome to my GitHub profile! 
+I'm passionate about coding, learning, and making great contributions to the tech community.
 
-Here are some ideas to get you started:
+## 🎯 About Me
+- 🌱 Currently learning: JavaScript 
+- 💼 Working on: Build Web Online-Shop can add Favorite and Cart.
+- 🔭 Exploring: Web Development and Cross-platform development.
+- 🌐 Portfolio: [van-chay.vercel.app](https://van-chay.vercel.app/)
+- 📫 How to reach me: chaydouble0@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Tech Stack
+Here are some of the technologies I work with:
+- **Languages:** Javascript
+- **Frameworks & Libraries:** React | Vue | Node/Express | Tailwind CSS
+- **Tools & Platforms:** Git, Docker
+- **Databases:** PostgreSQL, MongoDB
+  
+  ## 📈 GitHub Stats
+  ![My GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Vanchay01&show_icons=true&theme=tokyonight&hide_border=true)
+  
+  ## 🛠️ Languages I Use
+  ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vanchay01&show_icons=true&theme=tokyonight&hide_border=true)
+
+
+
+## 💡 Fun Facts
+- 🤓 I love solving challenging problems and building creative solutions.
+- 🌍 I'm always looking for opportunities to collaborate on meaningful projects.
+
+---
+
+Let's connect and create amazing things together!
+
+🎉 **Happy Coding!**
