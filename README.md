@@ -7,7 +7,7 @@ I'm passionate about coding, learning, and making great contributions to the tec
 - 🌱 Currently learning: JavaScript 
 - 💼 Working on: Build Web Online-Shop can add Favorite and Cart.
 - 🔭 Exploring: Web Development and Cross-platform development.
-- 🌐 Portfolio: [van-chay.vercel.app](https://vannchhay.vercel.app/)
+- 🌐 Portfolio: [vannchhay.vercel.app](https://vannchhay.vercel.app/)
 - 📫 How to reach me: chaydouble0@gmail.com
 
 ## 🚀 My Tech Stack
@@ -19,10 +19,6 @@ Here are some of the technologies I work with:
   
   ## 📈 GitHub Stats
   ![My GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Vanchay01&show_icons=true&theme=tokyonight&hide_border=true)
-  
-  ## 🛠️ Languages I Use
-  ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vanchay01&show_icons=true&theme=tokyonight&hide_border=true)
-
 
 
 ## 💡 Fun Facts
@@ -30,7 +26,3 @@ Here are some of the technologies I work with:
 - 🌍 I'm always looking for opportunities to collaborate on meaningful projects.
 
 ---
-
-Let's connect and create amazing things together!
-
-🎉 **Happy Coding!**
