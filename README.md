@@ -37,8 +37,8 @@ This project is suitable for:
 - Learning Docker + PostgreSQL + Node
 - Building scalable API services
 
-##📚 API Documentation
+## 📚 API Documentation
 
-Base URL
+# Base URL
 ```bash
 http://localhost:5000/api
