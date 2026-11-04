@@ -11,7 +11,7 @@ I'm passionate about coding, learning, and making great contributions to the tec
 ## 🚀 My Tech Stack
 Here are some of the technologies I work with:
 - **Languages:** PHP | JavaScript + TypeScript | Java
-- **Frameworks & Libraries:** Laravel | REACT JS | VUE JS | Node/Express + TypeScript
+- **Frameworks & Libraries:** Laravel | REACT | VUE | Node/Express + TypeScript
 - **Tools & Platforms:** Git | GitHub | Docker
 - **Databases:** MySQL | PostgreSQL | MongoDB
   
