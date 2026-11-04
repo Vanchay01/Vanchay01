@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 I'm passionate about coding, learning, and making great contributions to the tech community.
 
 ## 🎯 About Me
-- 🔭 Exploring: Web Development and Cross-platform development.
+- 🔭 Exploring: Web Development.
 - 🌐 Portfolio: [vannchhay.vercel.app](https://vannchhay.vercel.app/)
 - 📫 How to reach me: measvanchay01@gmail.com
 
